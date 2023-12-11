@@ -8,7 +8,7 @@ This project demonstrates how to create a virtual machine in Azure and view the 
 
 - Computer with internet connection
 - Microsoft Azure account
-  - Credit card (required for free Azure credits)
+  - Credit card/Debit card (required for free Azure credits)
 
 <h2>High-Level Steps</h2>
 
