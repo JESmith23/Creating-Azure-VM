@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Bp7tRX1.png" height="40%" width="60%" alt="Microsoft Azure Logo"/>
 </p>
 <h1>Creating a Virtual Machine (VM) in Microsoft Azure</h1>
-This project demonstartes how to create a virtual machine in Azure and view the created topology using Network Watcher.<br />
+This project demonstrates how to create a virtual machine in Azure and view the created topology using Network Watcher.<br />
 
 <h2>Requirements</h2>
 
